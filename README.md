@@ -1,16 +1,25 @@
-# ecshop_techpit
+# Techpit - しくみから学ぶ Riverpod + go_router アプリケーション開発 【Flutter】
 
-A new Flutter project.
+[Techpit](https://www.techpit.jp)にて提供されている教材、「しくみかわ学ぶ Riverpod + go_router アプリケーション開発【Flutter】」のサンプルリポジトリです。
 
-## Getting Started
+- 教材URL: https://www.techpit.jp/courses/238
 
-This project is a starting point for a Flutter application.
+## 環境
 
-A few resources to get you started if this is your first Flutter project:
+- flutter sdk version
+  - .fvm/fvm_config.json を参照してください
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+## ターゲット
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+- iOS
+  - 動作確認
+    - Simulator
+    - iPhone13
+- Android
+  - 動作確認
+    - Emulator
+    - Pixel 4a
+- Web
+  - Chrome v105
+- macOS, Windowsのデスクトップアプリケーションに対しての動作確認は実施されていません
+
