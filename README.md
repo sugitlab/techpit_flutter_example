@@ -4,6 +4,10 @@
 
 - 教材URL: https://www.techpit.jp/courses/238
 
+## お願い
+
+教材に関するご質問、ご指摘については Techpit サービスよりお知らせください。
+
 ## 環境
 
 - flutter sdk version
